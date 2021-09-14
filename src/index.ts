@@ -1,3 +1,3 @@
-const str:string = 'hello';
+const str:string = 'abc';
 
 console.log(str);

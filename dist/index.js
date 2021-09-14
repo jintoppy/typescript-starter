@@ -1,3 +1,4 @@
 "use strict";
-var str = 'hello';
+var str = 'abc';
 console.log(str);
+//# sourceMappingURL=index.js.map
