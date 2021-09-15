@@ -19,3 +19,17 @@ Steps Done
 3. src/index.ts
     const str:string = 'hello';
     console.log(str);
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+https://stackblitz.com/edit/js-h21cgp?file=index.js
+
+
+https://stackblitz.com/edit/js-9tsrnt
+https://stackblitz.com/edit/js-h21cgp?file=index.js
+https://stackblitz.com/edit/js-gbpazg?file=index.js
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+https://www.youtube.com/watch?v=PkZNo7MFNFg
